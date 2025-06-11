@@ -1,0 +1,15 @@
+{
+    "name": "augustomilao/phpsankhya",
+    "description": "Um módulo para conectar o ERP Sankhya com PHP",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "guzzle/http": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "augustomilao",
+            "email": "augusto.milao01@gmail.com"
+        }
+    ]
+}
