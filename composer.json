@@ -2,6 +2,7 @@
     "name": "augustomilao/phpsankhya",
     "description": "Um módulo para conectar o ERP Sankhya com PHP",
     "type": "library",
+    "license": "MIT",
     "require": {
         "vlucas/phpdotenv": "^5.6",
         "guzzle/http": "^3.9"
